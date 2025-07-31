@@ -38,4 +38,6 @@
 2. <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="32" height="32"/> TypeScript.
 
 ## :bell: 𝚂𝚝𝚊𝚝𝚜
-[https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15]
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Drbingbing&theme=blue-green&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)

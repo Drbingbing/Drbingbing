@@ -38,5 +38,4 @@
 2. <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="32" height="32"/> TypeScript.
 
 ## :bell: 𝚂𝚝𝚊𝚝𝚜
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Drbingbing)](https://git.io/streak-stats)
+[https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15]

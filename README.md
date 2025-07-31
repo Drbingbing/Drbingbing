@@ -37,7 +37,7 @@
 1. <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="32" height="32"/> Swift.
 2. <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="32" height="32"/> TypeScript.
 
-## :bell: 𝚂𝚝𝚊𝚝𝚜
+## :bell: Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Drbingbing&rank=-C,-B&margin-w=15
 )](https://github.com/ryo-ma/github-profile-trophy)

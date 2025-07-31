@@ -39,5 +39,5 @@
 
 ## :bell: 𝚂𝚝𝚊𝚝𝚜
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Drbingbing&rank=S,AAA,B
+[![trophy](https://github-profile-trophy.vercel.app/?username=Drbingbing&rank=-C,-B
 )](https://github.com/ryo-ma/github-profile-trophy)
